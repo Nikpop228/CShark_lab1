@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "C#_lab_1_part_2": {
+      "commandName": "Project",
+      "commandLineArgs": "5 25"
+    }
+  }
+}
